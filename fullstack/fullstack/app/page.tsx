@@ -1,3 +1,4 @@
+// Renz Vitug Application
 import Link from 'next/link';
 import { BlogPost } from './lib/data/posts';
 
